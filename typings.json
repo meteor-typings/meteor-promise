@@ -1,0 +1,11 @@
+{
+  "name": "meteor-promise",
+  "version": "0.6.3",
+  "main": "main.d.ts",
+  "browser": "browser.d.ts",
+  "homepage": "https://github.com/meteor/promise",
+  "ambient": true,
+  "ambientDependencies": {
+    "promise": "registry:dt/promise#7.1.1+20160602154553"
+  }
+}
